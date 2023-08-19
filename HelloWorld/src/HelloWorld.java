@@ -5,7 +5,6 @@ public class HelloWorld {
 
 		System.out.println("Hello from Java!");
 		
-		System.out.println("Test Connection SSH");
-
+		System.out.println("New Connection");
 	}
 }
